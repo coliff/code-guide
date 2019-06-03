@@ -1,14 +1,18 @@
 # Code Guide
 
-Code Guide is a set of standards for developing consistent, flexible, and sustainable HTML and CSS. It comes from years of experience writing code on projects of all sizes. It's not the end-all be-all, but it's a start.
+Code Guide is a project for documenting standards for developing flexible, durable, and sustainable HTML and CSS. It comes from years of experience writing code on projects of all sizes. It's not the end-all be-all, but it's a start.
 
-**[Start reading ☞](https://code-guide.co)**
+**[Start reading ☞](https://codeguide.co/)**
 
 ---
 
 ### License
 
-Released under MIT by, and copyright, @mdo.
+Released under MIT by, and copyright 2014, @mdo.
+
+### Thanks
+
+Heavily inspired by [Idiomatic CSS](https://github.com/necolas/idiomatic-css) and the [GitHub Styleguide](https://github.com/styleguide).
 
 ### Translations
 
